@@ -35,6 +35,11 @@ yarn-error.log*
 
 # typescript
 next-env.d.ts
+
+# private Google Maps Timeline exports
+**/Linha do Tempo.json
+**/Location History.json
+**/Records.json
 /dist/
 /.wrangler/
 /.sites-runtime/
